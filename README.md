@@ -1,8 +1,14 @@
 # Simple Bash Utils
 
-Development of Bash text utilities: cat, grep.
+In this project i implement cat and grep utility functions :)
 
-The russian version of the task can be found in the repository.
+For install you can use Makefile
+
+```
+make // in src folder
+```
+
+Development of Bash text utilities: cat, grep.
 
 ## Contents
 
@@ -147,7 +153,5 @@ Bonus assignment for extra points. You need to develop the grep utility:
 - The resulting executable file must be placed in the directory src/grep/ and named s21_grep
 
 
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64144c1bc09c020aafe7a4f3/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
 
 
